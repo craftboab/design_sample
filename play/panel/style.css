@@ -1,0 +1,16 @@
+.dark-overlay {
+
+  background: rgba(0, 0, 0, 0.7);
+}
+.panel{
+  height: 100px;
+  width: 150px;
+}
+.panel-middle{
+  height: 100px;
+  width: 150px;
+}
+.panel-end{
+  height: 100px;
+  width: 150px;
+}
